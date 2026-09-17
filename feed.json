@@ -10,5 +10,17 @@
         "name": "Milad kasirlou"
     },
     "items": [
+        {
+            "id": "https://miladkasirlou.github.io/how-to-live-much-more-comfortable.html",
+            "url": "https://miladkasirlou.github.io/how-to-live-much-more-comfortable.html",
+            "title": "how to live much more comfortable?",
+            "author": {
+                "name": "Milad kasirlou"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-17T10:48:13+03:30",
+            "date_modified": "2026-09-17T10:48:13+03:30"
+        }
     ]
 }
