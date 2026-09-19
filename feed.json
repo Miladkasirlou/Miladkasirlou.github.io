@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://miladkasirlou.github.io/the-impact-of-modern-technology-on-our-crowded-loneliness.html",
+            "url": "https://miladkasirlou.github.io/the-impact-of-modern-technology-on-our-crowded-loneliness.html",
+            "title": "The Impact of Modern Technology on Our Crowded Loneliness",
+            "summary": "In the recent past, human interaction was often driven by necessity rather than mere preference. To meet our daily needs, we were compelled to engage with others in the physical world, even when we preferred solitude. For instance, just a decade ago, finding directions required&hellip;",
+            "content_html": "<p data-path-to-node=\"4\">In the recent past, human interaction was often driven by necessity rather than mere preference. To meet our daily needs, we were compelled to engage with others in the physical world, even when we preferred solitude. For instance, just a decade ago, finding directions required asking multiple strangers until finding someone willing and able to help. Today, navigation apps on smartphones have eliminated this need, effectively bypassing direct human contact. Whether we desired it or not, we were once forced into regular, direct interaction with our communities.</p>\n<p data-path-to-node=\"5\">The advent of communication technologies initially promised a more connected world. From the proliferation of mobile phones to the complexities of the web, social media, and the impending arrival of the metaverse, the assumption was that human connection would flourish. However, this expectation has largely backfired. The intended cure for isolation has, in many ways, exacerbated the disease.</p>\n<p data-path-to-node=\"6\">The internet remains the primary facilitator of this digital connection. For a modest monthly fee, tasks that once required hours and numerous phone calls can now be accomplished in minutes. It serves as a hub for commerce, education, and entertainment. Consequently, our lifestyles have undergone a massive transformation. Two decades ago, organizing a simple football game required contacting multiple friends, a process that inherently fostered tighter bonds. Today, individuals can effortlessly explore virtual worlds in online games, significantly reducing the incentive to organize real-world gatherings.</p>\n<p data-path-to-node=\"7\">The central premise is that this unprecedented convenience has come at the cost of genuine joy. Global communication networks have paradoxically eroded close, personal relationships. Society has traded the authentic dopamine and happiness derived from physical interactions for digital substitutes. We have optimized for ease, but we have sacrificed profound fulfillment.</p>\n<p data-path-to-node=\"8\">It is undeniable that the digital age has caused a shift from deep, substantive relationships to numerous shallow interactions. We have exchanged relationships of immense depth for a multitude of superficial connections. This phenomenon is akin to digging a well for gold: instead of committing to a single deep excavation, individuals are tempted by the endless availability of other spots, abandoning profound exploration in favor of continuous, surface-level attempts.</p>\n<p data-path-to-node=\"9\">While current technological advancements are impressive, a more significant challenge approaches. In the near future, authentic human connections may become increasingly rare with the widespread integration of humanoid robots. Governed by sophisticated algorithms, these machines will be designed to interact flawlessly, potentially rendering human-to-human interaction obsolete. If this trajectory holds, it is imperative to cherish and maximize our time with genuine human companions.</p>\n<p data-path-to-node=\"10\">Can this future be prevented? Optimists might argue that humanity will eventually reject an over-reliance on technology due to its inability to satisfy deep emotional needs. However, this is unlikely. The comfort provided by modern technology is difficult to surrender, and the synthetic dopamine it generates has fostered widespread dependency.</p>\n<p data-path-to-node=\"11\">While some may argue that the neurochemical responses triggered by digital entertainment are genuine, one must question whether the pleasure derived from screens can truly equal the profound intimacy characteristic of human relationships from past decades.</p>\n<p data-path-to-node=\"12\">This leaves us with a critical question to consider: Is a life of greater physical and logistical challenges, yet enriched by deeper human connections, preferable to the highly comfortable but socially shallow existence of tomorrow?</p>",
+            "author": {
+                "name": "Milad kasirlou"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-19T12:05:01+03:30",
+            "date_modified": "2026-09-19T12:05:01+03:30"
+        },
+        {
             "id": "https://miladkasirlou.github.io/the-unintended-cost-of-ai-algorithms.html",
             "url": "https://miladkasirlou.github.io/the-unintended-cost-of-ai-algorithms.html",
             "title": "The Unintended Cost of AI Algorithms",
@@ -22,18 +36,6 @@
             ],
             "date_published": "2026-09-18T13:46:52+03:30",
             "date_modified": "2026-09-18T13:46:52+03:30"
-        },
-        {
-            "id": "https://miladkasirlou.github.io/how-to-live-much-more-comfortable.html",
-            "url": "https://miladkasirlou.github.io/how-to-live-much-more-comfortable.html",
-            "title": "how to live much more comfortable?",
-            "author": {
-                "name": "Milad kasirlou"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-17T10:48:13+03:30",
-            "date_modified": "2026-09-17T15:02:13+03:30"
         }
     ]
 }
